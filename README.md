@@ -1,4 +1,4 @@
-# Blosafe
+# SCOPE
 Audit of SmartContract =)
 
 ## Materials
